@@ -1,0 +1,79 @@
+.menu{
+	height:500px;
+	width:20%;
+	border:none;
+}
+
+.data{
+	height:500px;
+	width:79%;
+	border:none;
+}
+
+.head{
+	text-align: center;
+}
+
+table{
+	text-align:center;
+	border: 1px thin solid;
+}
+
+.aboutmyself{
+	font-size: 7px;
+	font: Arial;
+}
+
+
+.tableborder td{
+	border: thin solid;
+	border-collapse;
+}
+
+.tableborder{
+	border-collapse;
+	border: medium double ;
+}	
+	
+
+.galary{
+	 height:230px;
+	 width:230px;
+}
+
+.galarydiv{
+	text-align:center;
+}
+
+.tdstyle{
+	border:none;
+}
+
+.one{
+	height:163px;
+	width:20%;
+	border:none;
+
+}
+
+.two{
+	height:163px;
+	width:79%;
+	border:none;
+}
+
+.text{
+	font-size:50px;
+	text-align:center;
+	
+}
+
+
+
+
+
+
+
+
+	
+	

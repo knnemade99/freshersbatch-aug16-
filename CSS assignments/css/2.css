@@ -1,0 +1,26 @@
+.one{
+	font-size: 30px;
+	margin:20px;
+	font-weight: bold;
+}
+
+.two{
+	font-size: 20px;
+	margin:20px;
+	text-decoration: line-through;
+	font-weight: bold;
+}
+
+.three{
+	font-size: 15px;
+	margin:20px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.four{
+	font-size: 15px;
+	margin:20px;
+	font-weight: bold;
+}
+

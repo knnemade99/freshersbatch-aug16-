@@ -1,0 +1,7 @@
+.one{
+	height: 50px;
+	width:350px;
+	border:thin solid  #FFB6C1 ;	
+	outline: green dotted;
+	outline-offset:1px;
+}

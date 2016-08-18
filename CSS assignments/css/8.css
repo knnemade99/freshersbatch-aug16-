@@ -1,0 +1,15 @@
+div{
+	background-color: #E0FFFF;
+	margin:20px;
+}
+.one{
+ border: thick solid;
+}
+
+.two{
+ border: medium solid;
+}
+
+.three{
+ border: thin solid;
+}

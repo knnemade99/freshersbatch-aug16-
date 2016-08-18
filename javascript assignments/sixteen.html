@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<script type="text/javascript" src="js/sixteen.js"></script>
+		<link rel="stylesheet" href="css/sixteen.css">
+	</head>
+
+	<body>
+		<p>
+		Account number: <input type="text" id="accno" ><br>
+		Account name: <input type="text" id="accname" ><br>
+		<div id="balance">
+		Account balance: <input type="text" id="accbal" ><br>
+		</div>
+		
+		<br>
+		<select id="operation">
+		<option value="Withdraw">Withdraw</option>
+		<option value="Deposit">Deposit</option>
+		</select>
+		<div id="amt">
+		<input type="text" id="amount">
+		</div>
+		<input value="submit" type="button" onclick="accountManage()">
+		
+		</p>
+	</body>
+
+</html>
